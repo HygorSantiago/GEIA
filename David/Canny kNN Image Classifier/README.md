@@ -5,7 +5,7 @@ Com intuito de classificar imagens, foi criada uma arquitetura baseada no Algori
 
 Detalhes sobre os bancos de dados citados acima podem ser obtidos na documentação do keras.
 
-##Resultados
+## Resultados
 Para cada banco de dados, a arquitetura obteve as seguintes porcentagens de acerto (acurácia).
 |  Banco de dados   |  Acurácia   |
 | ----------------- | ----------- |
