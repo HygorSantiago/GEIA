@@ -1,2 +1,0 @@
-Credits
-Logistic Regression without sklearn -> https://github.com/UserSaiVarma/Logistic-Regression-using-Gradient-Descent-without-Sklearn
