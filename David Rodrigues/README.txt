@@ -1,0 +1,1 @@
+Os scripts se encontram em desenvolvimento. Sendo assim, os códigos ainda serão refatorados e testados.
